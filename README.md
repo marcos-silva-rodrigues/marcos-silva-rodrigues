@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @marcos-silva-rodrigues
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bem vindo!
 
-<!---
-marcos-silva-rodrigues/marcos-silva-rodrigues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Oi👋, eu sou marcos rodrigues, o dev que ainda vai se tornar um arquiteto de software!💪
+
+Aqui estão algumas linguagens que ja tive contato:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-silva-rodrigues&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
