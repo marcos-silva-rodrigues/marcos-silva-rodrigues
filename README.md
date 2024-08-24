@@ -1,11 +1,6 @@
 # Meu perfil :grinning:
 
 Oi !!! :wave: Eu sou ***Marcos Rodrigues*** sou formado em Gestão em Tecnologia da Informação na Fatec de Itaquaquecetuba :mortar_board: .Comecei minha carreia como frontend em 2021 utilizando Javascript e ReactJS, mas mudei de foco para backend quando decidir me aprofundar melhor em desenvolvimento de softare e me tornar um arquiteto de software, desde a pandemia estou sempre disposto a melhorar meu aprendizado consultando diversos materias como cursos, livros, podcast, artigos e palestras.
-Também gosto de ver sobre outras áreas que não são parte de desenvolvimento como:
-- Dinheiro e finanças
-- Hábitos e comportamentos
-- Gestão de tempo e organizacional
-- Aprendizagem
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marcos-silva-rodrigues)](https://github.com/marcos-silva-rodrigues)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-rodrigues-barros-da-silva/)](https://www.linkedin.com/in/marcos-rodrigues-barros-da-silva/)
